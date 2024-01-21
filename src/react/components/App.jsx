@@ -1,3 +1,4 @@
+'use client'
 import React, { forwardRef, useImperativeHandle, useRef } from 'react';
 import { KonstaProvider } from '../shared/KonstaProvider.jsx';
 import { useAutoTheme } from '../shared/use-auto-theme.js';
